@@ -20,3 +20,4 @@ If this study is useful or relevant to your research, please kindly recognize ou
   publisher={MDPI}
 }
 ```
+![CatsDogsAMPMemory](https://github.com/alishafique3/Deep_Learning_Performance_Characterization_for_Quantization_Frameworks/assets/17300597/d21546e0-ac68-46bd-b495-9b69f7c879ce)
