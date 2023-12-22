@@ -5,3 +5,18 @@ Deep learning finds applications in various fields like computer vision, natural
 
 ## Results:
 We have found that model architecture and corresponding parameters are the major factors that affect quantization performance. VGG16 has a large number of parameters, while MobileNet_v1 and ResNet-50 reduce their parameters using depthwise separable convolutional layers and 1×1 filters, resulting in lesser speedup and improvement factors after quantization as compared to VGG16.
+
+## Citation:
+If this study is useful or relevant to your research, please kindly recognize our contributions by citing our paper
+```
+@article{shafique2023deep,
+  title={Deep Learning Performance Characterization on GPUs for Various Quantization Frameworks},
+  author={Shafique, Muhammad Ali and Munir, Arslan and Kong, Joonho},
+  journal={AI},
+  volume={4},
+  number={4},
+  pages={926--948},
+  year={2023},
+  publisher={MDPI}
+}
+```
