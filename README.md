@@ -1,4 +1,4 @@
-# Deep_Learning_Performance_Characterization_for_Quantization_Frameworks
+# Deep Learning Performance Characterization for Quantization Frameworks
 
 ## Abstract:
 Deep learning finds applications in various fields like computer vision, natural language processing, robotics, and recommender systems. While large neural networks deliver high accuracy, they pose challenges in terms of training time, latency, energy consumption, and memory usage. To address these issues, optimization techniques and frameworks have been developed. This study evaluates the performance of quantization frameworks using metrics like training time, memory usage during training, and latency and throughput during inference on GPUs. In this paper, We have directed our attention to classification models to determine the prime factors in model architectures that affect quantization performance. The findings will help the developers and researchers create efficient deep learning models for GPUs, considering various factors like model type, dataset, image size, and batch size in both training and inference stages.
