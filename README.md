@@ -10,6 +10,13 @@ We have found that model architecture and corresponding parameters are the major
 
 ## Usage:
 The code is built using NVIDIA container image of TensorFlow, release 22.03, which is available on [NGC](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/tensorflow).\
+The code is built using following libraries:
+- Python 3.8
+- NVIDIA cuDNN 8.3.3.40
+- TensorFlow 2.8.0
+- NVIDIA TensorRT™ 8.2.3
+- TensorFlow-TensorRT (TF-TRT)
+  
 For Docker 19.03 or later, a typical command to launch the container is:
 ```
 docker run --gpus all -it --rm nvcr.io/nvidia/tensorflow:xx.xx-tfx-py3
