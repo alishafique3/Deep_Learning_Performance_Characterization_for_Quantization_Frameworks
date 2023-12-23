@@ -8,6 +8,11 @@ We have found that model architecture and corresponding parameters are the major
 
 ![cifar_results](https://github.com/alishafique3/Deep_Learning_Performance_Characterization_for_Quantization_Frameworks/assets/17300597/574df405-efa9-473f-aaac-014805b590b7)
 
+## Usage:
+The code is built using NVIDIA container image of TensorFlow, release 22.03, which is available on [NGC](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/tensorflow).
+
+![cifar_results](https://github.com/alishafique3/Deep_Learning_Performance_Characterization_for_Quantization_Frameworks/assets/17300597/574df405-efa9-473f-aaac-014805b590b7)
+
 ## Citation:
 If this study is useful or relevant to your research, please kindly recognize our contributions by citing our paper
 ```
